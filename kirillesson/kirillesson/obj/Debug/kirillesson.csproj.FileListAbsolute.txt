@@ -1,0 +1,10 @@
+C:\Users\aka-studio\source\repos\kirillesson\kirillesson\bin\Debug\kirillesson.exe.config
+C:\Users\aka-studio\source\repos\kirillesson\kirillesson\bin\Debug\kirillesson.exe
+C:\Users\aka-studio\source\repos\kirillesson\kirillesson\bin\Debug\kirillesson.pdb
+C:\Users\aka-studio\source\repos\kirillesson\kirillesson\obj\Debug\kirillesson.csprojAssemblyReference.cache
+C:\Users\aka-studio\source\repos\kirillesson\kirillesson\obj\Debug\kirillesson.Form1.resources
+C:\Users\aka-studio\source\repos\kirillesson\kirillesson\obj\Debug\kirillesson.Properties.Resources.resources
+C:\Users\aka-studio\source\repos\kirillesson\kirillesson\obj\Debug\kirillesson.csproj.GenerateResource.cache
+C:\Users\aka-studio\source\repos\kirillesson\kirillesson\obj\Debug\kirillesson.csproj.CoreCompileInputs.cache
+C:\Users\aka-studio\source\repos\kirillesson\kirillesson\obj\Debug\kirillesson.exe
+C:\Users\aka-studio\source\repos\kirillesson\kirillesson\obj\Debug\kirillesson.pdb

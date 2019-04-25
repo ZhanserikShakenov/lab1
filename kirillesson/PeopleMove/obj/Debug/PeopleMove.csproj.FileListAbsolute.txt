@@ -1,0 +1,10 @@
+C:\Users\aka-studio\source\repos\kirillesson\PeopleMove\bin\Debug\PeopleMove.exe.config
+C:\Users\aka-studio\source\repos\kirillesson\PeopleMove\bin\Debug\PeopleMove.exe
+C:\Users\aka-studio\source\repos\kirillesson\PeopleMove\bin\Debug\PeopleMove.pdb
+C:\Users\aka-studio\source\repos\kirillesson\PeopleMove\obj\Debug\PeopleMove.Form1.resources
+C:\Users\aka-studio\source\repos\kirillesson\PeopleMove\obj\Debug\PeopleMove.Properties.Resources.resources
+C:\Users\aka-studio\source\repos\kirillesson\PeopleMove\obj\Debug\PeopleMove.csproj.GenerateResource.cache
+C:\Users\aka-studio\source\repos\kirillesson\PeopleMove\obj\Debug\PeopleMove.csproj.CoreCompileInputs.cache
+C:\Users\aka-studio\source\repos\kirillesson\PeopleMove\obj\Debug\PeopleMove.exe
+C:\Users\aka-studio\source\repos\kirillesson\PeopleMove\obj\Debug\PeopleMove.pdb
+C:\Users\aka-studio\source\repos\kirillesson\PeopleMove\obj\Debug\PeopleMove.csprojAssemblyReference.cache

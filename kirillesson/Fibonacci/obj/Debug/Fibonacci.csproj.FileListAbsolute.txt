@@ -1,0 +1,9 @@
+C:\Users\aka-studio\source\repos\kirillesson\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Users\aka-studio\source\repos\kirillesson\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Users\aka-studio\source\repos\kirillesson\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Users\aka-studio\source\repos\kirillesson\Fibonacci\obj\Debug\Fibonacci.Form1.resources
+C:\Users\aka-studio\source\repos\kirillesson\Fibonacci\obj\Debug\Fibonacci.Properties.Resources.resources
+C:\Users\aka-studio\source\repos\kirillesson\Fibonacci\obj\Debug\Fibonacci.csproj.GenerateResource.cache
+C:\Users\aka-studio\source\repos\kirillesson\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\aka-studio\source\repos\kirillesson\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Users\aka-studio\source\repos\kirillesson\Fibonacci\obj\Debug\Fibonacci.pdb
